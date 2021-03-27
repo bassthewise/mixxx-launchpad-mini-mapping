@@ -8,7 +8,7 @@ When using these mapping files with Mixxx, they will turn your launchpad into a 
 
 To try this mapping, you will need to copy the xml and js files into Mixxx's user controller folder. When starting Mixxx, go to Preferences / Controller, and choose the Launchpad. Choose Novation Launchpad Mini by bassthewise from the Load Mapping list, and make shure to tick the Enabled box.
 
-The pdf file is intended to describe what each button does, this is a summary:
+This is a summary of the functionalities:
 
 1st page is a 2 deck mixer, with track progress, Sync, FF/RW, 4 Hot Cues, 4 Loops, pitch, crossfader and volume controls.
 
@@ -25,6 +25,10 @@ The pdf file is intended to describe what each button does, this is a summary:
 7th page is for Samplers 1-8 again, but adding PFL, FF/RW, and hotcues 1-4 (no gain, though).
 
 8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-4, and the AutoDJ playlist. It also shows the progress of each track.
+
+The more or less detailed funtion by button is as per this image (also in pdf):
+![image](https://user-images.githubusercontent.com/81437860/112730083-d7b30280-8f2f-11eb-9962-8778fb2069f1.png)
+
 
 
 To finish, a disclaimer: my knowledge of JS is very limited, and because of my try-and-error approach the code would most likely profit from some editing and cleaning... I am open to suggestions. Also, this is my first repository in Github, which in part accounts for this bland README.
