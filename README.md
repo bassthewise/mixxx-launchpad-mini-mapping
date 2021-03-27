@@ -1,6 +1,6 @@
 # mixxx-launchpad-mini-mapping
 
-In this repository you will find Bass The Wise's Mixxx mapping for Novation Launchpad Mini, although there are chances it could be adapted to other launchpad versions.
+In this repository you will find Bass The Wise's Mixxx mapping for Novation Launchpad Mini. Chances are that it could be adapted to other launchpad versions.
 
 This mapping is largely based on jdsilvaa's work (https://github.com/jdsilvaa/mixxx-launchpad-mini), itself based on marczis and zestoi previous mappings for the controller. There is also a more advanced mapping from dszakallas (https://github.com/dszakallas/mixxx-launchpad); give it a try if you are looking for a very complete controller of 4 decks and 4 samplers!
 
