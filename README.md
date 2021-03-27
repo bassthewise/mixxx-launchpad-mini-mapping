@@ -27,7 +27,7 @@ The pdf file is intended to describe what each button does, this is a summary:
 8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-4, and the AutoDJ playlist. It also shows the progress of each track.
 
 
-To finish, a disclaimer: my knowledge of JS is very limited, and because of my try-and-error approach the code would most likely profit from some editing and cleaning... I am open to suggestions.
+To finish, a disclaimer: my knowledge of JS is very limited, and because of my try-and-error approach the code would most likely profit from some editing and cleaning... I am open to suggestions. Also, this is my first repository in Github, which in part accounts for the very bland presentation.
 
 Enjoy!
 
