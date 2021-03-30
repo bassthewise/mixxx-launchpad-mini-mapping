@@ -6,7 +6,7 @@ This mapping is largely based on jdsilvaa's work (https://github.com/jdsilvaa/mi
 
 When using these mapping files with Mixxx, they will turn your launchpad into a simple 2 deck mixer, with support for filters, 4 FX, 16 samplers, library browsing and AutoDJ. It is based on Mixxx's version 2.3, changing some deprecated controls used in the mappings mentioned previously.
 
-To try this mapping, you will need to copy the xml and js files into Mixxx's user controller folder. When starting Mixxx, go to Preferences / Controller, and choose the Launchpad controller. Then choose Novation Launchpad Mini by bassthewise from the Load Mapping list, and make shure to tick the Enabled box.
+To try this mapping, you will need to copy the xml and js files into Mixxx's user controller folder. When starting Mixxx, go to Preferences / Controller, and choose the Launchpad controller. Then choose Novation Launchpad Mini by bassthewise from the Load Mapping list, and make sure to tick the Enabled box.
 
 This is a summary of the functionalities:
 
