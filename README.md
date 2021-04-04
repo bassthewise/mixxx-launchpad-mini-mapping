@@ -1,12 +1,12 @@
-# mixxx-launchpad-mini-mapping
+# Mixxx mapping for Launchpad mini
 
 In this repository you will find Bass The Wise's Mixxx mapping for Novation's Launchpad Mini. Chances are that it could be adapted to other launchpad versions.
 
 This mapping is largely based on jdsilvaa's work (https://github.com/jdsilvaa/mixxx-launchpad-mini), itself based on marczis and zestoi previous mappings for the controller. There is also a more advanced mapping from dszakallas (https://github.com/dszakallas/mixxx-launchpad); give it a try if you are looking for a very complete controller of 4 decks and 4 samplers!
 
-When using these mapping files with Mixxx, they will turn your launchpad into a simple 2 deck mixer, with support for filters, 4 FX, 16 samplers, library browsing and AutoDJ. It is based on Mixxx's version 2.3, changing some deprecated controls used in the mappings mentioned previously.
+This mapping for Mixxx will turn your launchpad into a simple 2 deck mixer, with support for filters, 4 FX, 16 samplers, library browsing and AutoDJ. It is based on Mixxx's version 2.2.4, changing some deprecated controls used in the mappings mentioned previously.
 
-To try this mapping, you will need to copy the xml and js files into Mixxx's user controller folder. When starting Mixxx, go to Preferences / Controller, and choose the Launchpad controller. Then choose Novation Launchpad Mini by bassthewise from the Load Mapping list, and make sure to tick the Enabled box.
+To try it, you will need to copy the xml and js files into Mixxx's user controller folder. When starting Mixxx, go to Preferences / Controller, and choose the Launchpad controller. Then choose Novation Launchpad Mini by bassthewise from the Load Mapping list, and make sure to tick the Enabled box.
 
 This is a summary of the functionalities:
 
@@ -26,7 +26,7 @@ This is a summary of the functionalities:
 
 8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-8, and the AutoDJ playlist. There are controls for the font size, waveform zoom, toggle Maximize library, and enabling AutoDJ. It also shows the progress of each track.
 
-The more or less detailed funtion by button is as per this image (also in pdf):
+The more or less detailed funtion by button is as per this image:
 ![image](https://user-images.githubusercontent.com/81437860/112748655-733e8480-8fbd-11eb-82ac-b949bb6ce3cd.png)
 
 
