@@ -10,21 +10,21 @@ To try it, you will need to copy the xml and js files into Mixxx's user controll
 
 This is a summary of the functionalities:
 
-1st page is a 2 deck mixer, with track progress, Play, Cue, PFL, Sync, FF/RW, Sync+/-, 4 Hot Cues, 4 Loops, reloop, pitch, crossfader and volume controls.
+· 1st page is a 2 deck mixer, with track progress, Play, Cue, PFL, Sync, FF/RW, Sync+/-, 4 Hot Cues, 4 Loops, reloop, pitch, crossfader and volume controls.
 
-2nd page is for the SuperFilter and Filters on the 2 decks.
+· 2nd page is for the SuperFilter and Filters on the 2 decks.
 
-3rd page is for 4 FX: assigning to decks, first meta knob and mix controls for each FX. I didn't manage to enable the filters with the script, so you'll need to activate the first effect on each FX deck for this to work.
+· 3rd page is for 4 FX: assigning to decks, first meta knob and mix controls for each FX. I didn't manage to enable the filters with the script, so you'll need to activate the first effect on each FX deck for this to work.
 
-4th page is for Master Volume and Headphone volume, plus gain and volume control on the 2 decks. It has peak controls for each deck
+· 4th page is for Master Volume and Headphone volume, plus gain and volume control on the 2 decks. It has peak controls for each deck
 
-5th page is for Samplers 1-8 with gain; samples will always start from the beggining.
+· 5th page is for Samplers 1-8 with gain; samples will always start from the beggining.
 
-6th page is for Samplers 9-16 with gain; activating repeat, quantize, keylock and beatsync on the samples. It is meant to be used with drum samples.
+· 6th page is for Samplers 9-16 with gain; activating repeat, quantize, keylock and beatsync on the samples. It is meant to be used with drum samples.
 
-7th page is for Samplers 1-8 again, but instead of gain it has PFL, FF/RW, Sync+/-, and hotcues 1-4.
+· 7th page is for Samplers 1-8 again, but instead of gain it has PFL, FF/RW, Sync+/-, and hotcues 1-4.
 
-8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-8, and the AutoDJ playlist. There are controls for the font size, waveform zoom, toggle Maximize library, and enabling AutoDJ. It also shows the progress of each track.
+· 8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-8, and the AutoDJ playlist. There are controls for the font size, waveform zoom, toggle Maximize library, and enabling AutoDJ. It also shows the progress of each track.
 
 The more or less detailed funtion by button is as per this image:
 ![image](https://user-images.githubusercontent.com/81437860/112748655-733e8480-8fbd-11eb-82ac-b949bb6ce3cd.png)
