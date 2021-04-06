@@ -4,7 +4,7 @@ In this repository you will find Bass The Wise's Mixxx mapping for Novation's La
 
 This mapping is largely based on jdsilvaa's work (https://github.com/jdsilvaa/mixxx-launchpad-mini), itself based on marczis and zestoi previous mappings for the controller. There is also a more advanced mapping from dszakallas (https://github.com/dszakallas/mixxx-launchpad); give it a try if you are looking for a very complete controller of 4 decks and 4 samplers!
 
-This mapping for Mixxx will turn your launchpad into a simple 2 deck mixer, with support for filters, 4 FX, 16 samplers, library browsing and AutoDJ. It is based on Mixxx's version 2.2.4, changing some deprecated controls used in the mappings mentioned previously.
+This mapping for Mixxx will turn your launchpad into a simple 2 deck mixer, with support for filters, 4 FX, 16 samplers, library browsing and AutoDJ. It is based on Mixxx's version 2.2.4, changing some deprecated controls used in the script that I reworked.
 
 To try it, you will need to copy the xml and js files into Mixxx's user controller folder. When starting Mixxx, go to Preferences / Controller, and choose the Launchpad controller. Then choose Novation Launchpad Mini by bassthewise from the Load Mapping list, and make sure to tick the Enabled box.
 
