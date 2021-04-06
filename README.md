@@ -20,14 +20,14 @@ This is a summary of the functionalities:
 
 · 5th page is for Samplers 1-8 with gain; samples will always start from the beggining.
 
-· 6th page is for Samplers 9-16 with gain; activating repeat, quantize, keylock and beatsync on the samples. It is meant to be used with drum samples.
+· 6th page is for Samplers 1-8 again, but instead of gain it has PFL, FF/RW, Sync+/-, and hotcues 1-4.
 
-· 7th page is for Samplers 1-8 again, but instead of gain it has PFL, FF/RW, Sync+/-, and hotcues 1-4.
+· 7th page is for Samplers 9-16 with gain; activating repeat, quantize, keylock and beatsync on the samples. It is meant to be used with drum samples.
 
 · 8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-8, and the AutoDJ playlist. There are controls for the font size, waveform zoom, toggle Maximize library, and enabling AutoDJ. It also shows the progress of each track.
 
 The more or less detailed funtion by button is as per this image:
-![image](https://user-images.githubusercontent.com/81437860/112748655-733e8480-8fbd-11eb-82ac-b949bb6ce3cd.png)
+![Novation Launchpad mini_MIXXX mapping](https://user-images.githubusercontent.com/81437860/113693748-3c5c2300-96cf-11eb-9e69-1433c4a2ce73.png)
 
 
 To finish, a disclaimer: my knowledge of JS is very limited, and because of my try-and-error approach the code would most likely profit from some editing and cleaning... I am open to suggestions. Also, this is my first repository in Github, which in part accounts for this bland README.
