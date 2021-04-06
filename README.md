@@ -27,7 +27,7 @@ This is a summary of the functionalities:
 · 8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-8, and the AutoDJ playlist. There are controls for the font size, waveform zoom, toggle Maximize library, and enabling AutoDJ. It also shows the progress of each track.
 
 The more or less detailed funtion by button is as per this image:
-![Novation Launchpad mini_MIXXX mapping](https://user-images.githubusercontent.com/81437860/113693748-3c5c2300-96cf-11eb-9e69-1433c4a2ce73.png)
+![Novation Launchpad mini_MIXXX mapping](https://user-images.githubusercontent.com/81437860/113695764-880fcc00-96d1-11eb-930f-80eddde7412a.png)
 
 
 To finish, a disclaimer: my knowledge of JS is very limited, and because of my try-and-error approach the code would most likely profit from some editing and cleaning... I am open to suggestions. Also, this is my first repository in Github, which in part accounts for this bland README.
