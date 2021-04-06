@@ -18,7 +18,7 @@ This is a summary of the functionalities:
 
 · 4th page is for Master Volume and Headphone volume, plus gain and volume control on the 2 decks. It has peak controls for each deck
 
-· 5th page is for Samplers 1-8 with gain; samples will always start from the beggining.
+· 5th page is for Samplers 1-8 with gain; samples will always start from the beginning.
 
 · 6th page is for Samplers 1-8 again, but instead of gain it has PFL, FF/RW, Sync+/-, and hotcues 1-4.
 
@@ -26,7 +26,7 @@ This is a summary of the functionalities:
 
 · 8th page is for Library Navigation, loading tracks to deck 1, deck 2, samplers 1-8, and the AutoDJ playlist. There are controls for the font size, waveform zoom, toggle Maximize library, and enabling AutoDJ. It also shows the progress of each track.
 
-The more or less detailed funtion by button is as per this image:
+The more or less detailed function for each button is as per this image:
 ![Novation Launchpad mini_MIXXX mapping](https://user-images.githubusercontent.com/81437860/113695764-880fcc00-96d1-11eb-930f-80eddde7412a.png)
 
 
